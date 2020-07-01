@@ -1,0 +1,16 @@
+{
+  "name": "herocoders",
+  "version": "1.0.0",
+  "description": "library test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Daniel Kos",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.10.4",
+    "@jest/globals": "^26.1.0",
+    "jest": "^26.1.0"
+  }
+}
